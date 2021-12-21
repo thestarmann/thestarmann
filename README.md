@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thestarmann
-- 👀 I’m interested in Flutter Developement & Machine Learning 
+- 👀 I’m interested in Flutter Dev, WEB3 & Machine Learning 
 - 📫 Bangalore!
 
 <!---
